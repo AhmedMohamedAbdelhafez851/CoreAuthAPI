@@ -1,0 +1,6 @@
+@ApisToFlutter_HostAddress = http://localhost:5244
+
+GET {{ApisToFlutter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
