@@ -12,8 +12,8 @@ Secure ASP.NET Core Web API for user authentication and registration.
 
 ## Usage
 
-- Register a new user: `POST /api/User/Register`
-- Login with existing credentials: `POST /api/User/Login`
+- Register a new user: `POST /api/User/register`
+- Login with existing credentials: `POST /api/User/login`
 
 ## Contributing
 
